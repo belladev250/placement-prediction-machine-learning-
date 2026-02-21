@@ -66,4 +66,4 @@ jupyter notebook summative_Melissa_Ineza_Bella_Placement_prediciton.ipynb
 # 👩‍💻 Author
  Bella Melissa Ineza
  Course: Introduction to Machine Learning (Summative Project)
- Date: October 2025
+ Date: 21 feb 2026
